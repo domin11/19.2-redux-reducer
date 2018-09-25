@@ -1,0 +1,23 @@
+{
+  "name": "redux.reducer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "actions.js",
+  "dependencies": {
+    "uuid": "^3.3.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/domin11/19.2-redux-reducer.git"
+  },
+  "author": "domin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/domin11/19.2-redux-reducer/issues"
+  },
+  "homepage": "https://github.com/domin11/19.2-redux-reducer#readme"
+}
